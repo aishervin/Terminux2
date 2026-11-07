@@ -1,0 +1,6 @@
+{
+  "name": "SHΞN AI Chat",
+  "description": "Offline-first browser-based AI chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
